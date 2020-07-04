@@ -9,6 +9,7 @@ const yamlString = k8s.dumpYaml({
   metadata: {
     name: 'test'
 	  name:'kiran'
+      name:'ksjns'
   }
 });
 
